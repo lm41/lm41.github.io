@@ -39,7 +39,7 @@ highlight_code = false
 # Enable modern headings
 styles = ["mods.css"]
 default_theme = "system"
-accent_color = "#005111"
+accent_color = "#25a841"
 accent_color_dark = "#0de03b"
 favicon = "static/favicon.png"
 
@@ -61,7 +61,8 @@ show_repo = true
 
 links = [	
 	{ url = "@/legal/_index.md", name = "Legal" },
-  { url = "@/installation/_index.md", name = "Installation"}
+  { url = "@/installation/_index.md", name = "Installation"},
+  { url = "https://beta.addons.florisboard.org", name = "Addons"}
 ]
 
 
