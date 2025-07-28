@@ -1,0 +1,10 @@
+language_name = "Español"
+# Tera date format used for listing posts
+# (post publication date, tag posts list...).
+# Not used in comments, "date_locale" is used instead.
+# See https://docs.rs/chrono/0.4.31/chrono/format/strftime/index.html
+date_format = "%B %d, %Y"
+date_locale = "es_ES"
+
+
+Legal = "Política de privacidad"
