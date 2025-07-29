@@ -1,1 +1,6 @@
 @use "../themes/duckquill/sass/mods/modern-headings";
+@use "../themes/duckquill/sass/mods/classic-nav";
+
+:root {
+  --container-width: 1080px; // Override the container width
+}
