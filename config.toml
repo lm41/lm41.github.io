@@ -39,14 +39,14 @@ show_repo = true
 
 links = [
   { url = "@/installation/_index.md", name = "Installation"},
-	{ url = "@/legal/privacy/_index.md", name = "Legal" },
+  { url = "@/legal/privacy/_index.md", name = "Legal" },
   { url = "https://beta.addons.florisboard.org", name = "Addons"}
 ]
 
 [extra.footer]
 links = [
   { url = "@/installation/_index.md", name = "Installation"},
-	{ url = "@/legal/privacy/_index.md", name = "Legal" },
+  { url = "@/legal/privacy/_index.md", name = "Legal" },
   { url = "https://beta.addons.florisboard.org", name = "Addons"}
 ]
 socials = [
