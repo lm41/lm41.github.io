@@ -1,4 +1,4 @@
-# The URL the site will be built for
+#eThe URL the site will be built for
 base_url = "https://lm41.github.io"
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -39,14 +39,14 @@ show_repo = true
 
 links = [
   { url = "@/installation/_index.md", name = "Installation"},
-	{ url = "@/legal/privacy.md", name = "Legal" },
+	{ url = "@/legal/privacy/_index.md", name = "Legal" },
   { url = "https://beta.addons.florisboard.org", name = "Addons"}
 ]
 
 [extra.footer]
 links = [
   { url = "@/installation/_index.md", name = "Installation"},
-	{ url = "@/legal/privacy.md", name = "Legal" },
+	{ url = "@/legal/privacy/_index.md", name = "Legal" },
   { url = "https://beta.addons.florisboard.org", name = "Addons"}
 ]
 socials = [
