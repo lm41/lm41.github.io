@@ -1,7 +1,7 @@
 # The URL the site will be built for
 base_url = "https://florisboard.org"
 # Whether to automatically compile all Sass files in the sass directory
-output_dir = "target"
+#output_dir = "target"
 compile_sass = true
 theme = "duckquill"
 build_search_index = false
