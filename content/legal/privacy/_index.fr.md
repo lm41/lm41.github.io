@@ -1,7 +1,7 @@
 +++
 title = "Politique de confidentialité"
 [extra]
-go_to_top = true
+go_to_top = false
 +++
 _Dernière modification : 25 août 2022_
 

@@ -1,7 +1,7 @@
 +++
 title = "Privacy policy"
 [extra]
-go_to_top = true
+go_to_top = false
 +++
 _Last modified: Aug 25, 2022_
 
