@@ -39,6 +39,7 @@ jobs:
     - name: Build only
       uses: shalzz/zola-deploy-action@v0.21.0
       env:
+        BUILD_DIR: ${{ steps.pages.outputs }}
         BUILD_ONLY: true
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v3.0.1
