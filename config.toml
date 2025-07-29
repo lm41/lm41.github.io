@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://florisboard.org"
+base_url = "https://lm41.github.io"
 # Whether to automatically compile all Sass files in the sass directory
 #output_dir = "target"
 compile_sass = true
