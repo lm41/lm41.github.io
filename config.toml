@@ -1,7 +1,6 @@
 # The URL the site will be built for
 base_url = "https://lm41.github.io"
 # Whether to automatically compile all Sass files in the sass directory
-#output_dir = "target"
 compile_sass = true
 theme = "duckquill"
 build_search_index = false
@@ -30,6 +29,9 @@ accent_color = "#25a841"
 accent_color_dark = "#0de03b"
 favicon = "static/favicon.png"
 source_url = "https://github.com/florisboard/florisboard"
+
+toc = false
+toc_inline = false
 
 [extra.nav]
 show_theme_switcher = true
